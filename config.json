@@ -1,0 +1,18 @@
+{
+  "api": {
+    "baseUrl": "https://test-domain.su/To-Do/api"
+  },
+  "frontend": {
+    "verifyEmailUrl": "https://test-domain.su/verify-email.html"
+  },
+  "email": {
+    "from": "noreply@test-domain.su",
+    "replyTo": "support@test-domain.su"
+  },
+  "database": {
+    "host": "localhost",
+    "name": "u3292465_to-do",
+    "user": "u3292465_root1",
+    "port": 3306
+  }
+}
