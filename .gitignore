@@ -99,6 +99,11 @@ public
 .yarn/install-state.gz
 .pnp.*
 
+# Backend files - исключаем из репозитория
+api/
+database/
+config.json
+
 # PHP Backend specific
 # PHP logs and temporary files
 *.log
